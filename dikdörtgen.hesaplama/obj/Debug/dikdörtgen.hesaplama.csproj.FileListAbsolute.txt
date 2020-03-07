@@ -1,0 +1,6 @@
+C:\Users\muhammed\Desktop\c# denemeler\dikdörtgen.hesaplama\dikdörtgen.hesaplama\obj\Debug\dikdörtgen.hesaplama.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\c# denemeler\dikdörtgen.hesaplama\dikdörtgen.hesaplama\bin\Debug\dikdörtgen.hesaplama.exe.config
+C:\Users\muhammed\Desktop\c# denemeler\dikdörtgen.hesaplama\dikdörtgen.hesaplama\bin\Debug\dikdörtgen.hesaplama.exe
+C:\Users\muhammed\Desktop\c# denemeler\dikdörtgen.hesaplama\dikdörtgen.hesaplama\bin\Debug\dikdörtgen.hesaplama.pdb
+C:\Users\muhammed\Desktop\c# denemeler\dikdörtgen.hesaplama\dikdörtgen.hesaplama\obj\Debug\dikdörtgen.hesaplama.exe
+C:\Users\muhammed\Desktop\c# denemeler\dikdörtgen.hesaplama\dikdörtgen.hesaplama\obj\Debug\dikdörtgen.hesaplama.pdb
